@@ -1,0 +1,8 @@
+fastapi>=0.109
+uvicorn[standard]>=0.25
+opencv-python>=4.8.1
+numpy>=1.26
+python-multipart>=0.0.9
+pillow>=10.0  # only for tests / compat
+httpx>=0.25  # for tests
+pytest>=8.0
